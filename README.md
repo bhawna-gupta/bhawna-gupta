@@ -2,4 +2,5 @@
 
 - 🔭 I’m currently working as Technology Analyst Intern at Morgan Stanley
 - 🌱 I’m currently learning Kafka 
-- 📫 How to reach me: Linkedin 
+- 📫 How to reach me: Linkedin @bhawna-gupta
+- 
